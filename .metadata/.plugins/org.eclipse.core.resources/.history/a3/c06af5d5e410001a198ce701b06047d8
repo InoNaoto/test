@@ -1,9 +1,0 @@
-
-public class Robot {
-
-		// TODO 自動生成されたメソッド・スタブ
-public String name = null;
-
-	
-
-}
